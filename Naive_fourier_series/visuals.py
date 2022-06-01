@@ -1,9 +1,15 @@
 """
+Date: 5/6/2021
 Fourier Series by Ogwu Jeffrey
 
 Fourier Series for Square wave functions.
 
 Just so you know, I hard coded it no function or lazy stuff. ;)
+
+Date: 6/1/2022
+Looking at this, now i feel like pewking, :( 
+This Code has a lot of repeatations, lack of use of
+objects and functions, need refacturing.
 
 """
 
