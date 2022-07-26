@@ -6,10 +6,7 @@ Fourier Series for Square wave functions.
 
 Just so you know, I hard coded it no function or lazy stuff. ;)
 
-Date: 6/1/2022
-Looking at this, now i feel like pewking, :( 
-This Code has a lot of repeatations, lack of use of
-objects and functions, need refacturing.
+Refactured by Ogwu Jeffrey: 7/26/22
 
 """
 
@@ -29,9 +26,6 @@ screen = pygame.display.set_mode((width,height))
 screen.fill(background_color)
 
 surface = pygame.Surface((width,height))
-surface2 = pygame.Surface((width/2,height))
-
-surface2.fill(background_color)
 
 x = 250
 y = 250
@@ -41,7 +35,7 @@ circle_center = (250,250)
 radius = 100
 
 wave =[] #To append all the points of the y4 axis
-wave2 = []
+
 run = True
 pointPosition = Pos(x,y)
 
