@@ -1,10 +1,14 @@
 """
+Date: 5/6/2021
 Fourier Series by Ogwu Jeffrey
-
 Fourier Series for Square wave functions.
 
 Just so you know, I hard coded it no function or lazy stuff. ;)
 
+Date: 6/1/2022
+
+This code is really bad :( 
+This Code needs refacturing.
 """
 
 import pygame
